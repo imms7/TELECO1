@@ -1,4 +1,4 @@
-#📡 Telecomunicaciones 1.
+📡 #Telecomunicaciones 1.
 
 Repositorio destinado a recopilar los entregables, prácticas y documentación desarrollada durante el curso de Telecomunicaciones 1.
 
